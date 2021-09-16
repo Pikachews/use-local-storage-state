@@ -3,7 +3,7 @@
     "version": "11.0.0",
     "description": "React hook that persist data in localStorage",
     "license": "MIT",
-    "repository": "astoilkov/use-local-storage-state",
+    "repository": "pikachews/use-local-storage-state",
     "funding": "https://github.com/sponsors/astoilkov",
     "author": {
         "name": "Antonio Stoilkov",
