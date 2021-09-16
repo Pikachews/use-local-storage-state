@@ -1,5 +1,5 @@
 {
-    "name": "use-local-storage-state",
+    "name": "@pikachews/use-local-storage-state",
     "version": "11.0.0",
     "description": "React hook that persist data in localStorage",
     "license": "MIT",
